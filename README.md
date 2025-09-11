@@ -3,7 +3,7 @@
 ## REGISTER NO:212223100019
 
 
-# Aim:
+# Aim: 
 To create a Simple Storage Service (S3) in AWS and to launch an EC2 instance in AWS.
 
 # Procedure
